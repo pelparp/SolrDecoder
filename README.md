@@ -1,7 +1,7 @@
 # SolrDecoder
 
 ## About SolrDecoder
-SolrDecoder is a tool to decode compressed base64 strings present in CS files associated with the SUNBURST backdoor. The tool takes in a CS file that contains an encoded payload and provides a decoded CS file and a CSV containing a list of encoded and the corresponding decoded strings. 
+SolrDecoder is a tool to decode compressed base64 strings present in .cs files associated with the SUNBURST backdoor. It looks for content between "OrionImprovementBusinessLayer.ZipHelper.Unzip("/*content*/") and attempts to decode the content. The tool takes in a .cs file that contains an encoded payload and provides a decoded CS file and a CSV containing a list of encoded and the corresponding decoded strings. 
 
 ## Usage
 
