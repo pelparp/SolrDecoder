@@ -5,13 +5,7 @@ SolrDecoder is a tool to decode compressed base64 strings present in CS files as
 
 ## Usage
 
- _____       _     ______                   _
-/  ___|     | |    |  _  \                 | |
-\ `--.  ___ | |_ __| | | |___  ___ ___   __| | ___ _ __
- `--. \/ _ \| | '__| | | / _ \/ __/ _ \ / _` |/ _ \ '__|
-/\__/ / (_) | | |  | |/ /  __/ (_| (_) | (_| |  __/ |
-\____/ \___/|_|_|  |___/ \___|\___\___/ \__,_|\___|_|
-
+SolrDecoder.exe -i backdoor.cs -o C:\temp\output
 
   -i, --input     Required. Full path of .cs file that contains the payload
 
