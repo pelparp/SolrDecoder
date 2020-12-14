@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28729.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolrDecoder", "SolrDecoder.csproj", "{E0A437A3-8768-4ADF-A9AA-33CF9B10193B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0A437A3-8768-4ADF-A9AA-33CF9B10193B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0A437A3-8768-4ADF-A9AA-33CF9B10193B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0A437A3-8768-4ADF-A9AA-33CF9B10193B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0A437A3-8768-4ADF-A9AA-33CF9B10193B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFA01FC8-3C5C-4C24-863E-373427CFD257}
+	EndGlobalSection
+EndGlobal
